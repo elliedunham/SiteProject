@@ -1,6 +1,9 @@
-<link hfref="http://wdd.centre.edu:4000/home" >
-
-body 
+body
 {
     background-color: aqua;
+}
+
+element.style
+{
+    background-color: #f5e6e6;
 }
