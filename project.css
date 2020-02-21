@@ -8,5 +8,10 @@ div.header
 {
     background-color: #f5e6e6;
 }
+div.person_info
+{
+    display:none;
+}
+
 
 
