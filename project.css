@@ -7,4 +7,10 @@ classMates
 {
     background-color: #f5e6e6;
 }
+div:nthChild(2)
+{
+    border: solid;
+    
+}
+
 
