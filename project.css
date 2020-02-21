@@ -10,7 +10,7 @@ div.header
 }
 div.person_info
 {
-    display: none;
+    float: left;
 }
 
 div.day-box.PREP
