@@ -7,12 +7,16 @@ body
 div.header
 {
     background-color: #f5e6e6;
-    div.person_info
+}
+div.person_info
 {
     display: none;
 }
-}
 
+div.day-box.PREP
+{
+    border: solid;
+}
 
 
 
