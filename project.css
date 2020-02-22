@@ -19,14 +19,17 @@ img.person_image
 div.day-box.PREP
 {
     border: solid;
+    border-bottom: none;
 }
 div.day-box.COMPLETED
 {
     border: solid;
+    border-bottom: none;
 }
 div.day-box.CURRENT
 {
     border: solid;
+    border-bottom: none;
 }
 table
 {
