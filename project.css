@@ -11,6 +11,8 @@ div.header
 div.person_info
 {
     float: left;
+    height: 100px;
+    width: 100px;
 }
 
 div.day-box.PREP
