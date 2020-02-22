@@ -10,7 +10,7 @@ div.header
 }
 div.person_info
 {
-    float: left;
+    
     height: 200px;
     width: 200px;
 }
@@ -29,10 +29,6 @@ div.day-box.CURRENT
 }
 table
 {
-    display: table;
-    border-collapse: separate;
-    border-spacing: 2px;
-    border-color: grey;
 }
     
 
