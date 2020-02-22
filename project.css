@@ -6,6 +6,13 @@ div.header
 {
     background-color: #f5e6e6;
 }
+div.person_info
+{
+  width: 200px;
+  height: 175px;
+  font-size: larger;
+ 
+}
 img.person_image
 {
 
@@ -37,7 +44,7 @@ table
 div.title
 {
     font-size: x-large;
-
+    text-transform: uppercase;
 }
 form.account_form
 {
