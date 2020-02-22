@@ -8,11 +8,12 @@ div.header
 {
     background-color: #f5e6e6;
 }
-div.person_info
+img.person_image
 {
-    
-    height: 200px;
-    width: 200px;
+
+   float: left;
+    height: 150px;
+    width: 150px;
 }
 
 div.day-box.PREP
@@ -27,8 +28,6 @@ div.day-box.CURRENT
 {
     border: solid;
 }
-table
-{
-}
+
     
 
