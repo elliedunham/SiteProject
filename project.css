@@ -28,6 +28,13 @@ div.day-box.CURRENT
 {
     border: solid;
 }
+table
+{
+    width: 600px;
+    background-color: #f5e6e6;
+    border-spacing: 10px 10px;
+
+}
 
     
 
