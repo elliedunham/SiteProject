@@ -2,8 +2,6 @@ body
 {
     background-color: #d4d2a1;
 }
-
-
 div.header
 {
     background-color: #f5e6e6;
@@ -11,11 +9,10 @@ div.header
 img.person_image
 {
 
-   float: left;
+  clear: both;
     height: 150px;
     width: 150px;
 }
-
 div.day-box.PREP
 {
     border: solid;
@@ -36,8 +33,26 @@ table
     width: 600px;
     background-color: #f5e6e6;
     border-spacing: 10px 10px;
+}
+div.title
+{
+    font-size: x-large;
 
 }
+form.account_form
+{
+        background-color: burlywood;
+    font-style: oblique;
+}
+label
+{
+    clear: both;
+}
 
+input
+{
+  clear: both;
+  
+}
     
 
