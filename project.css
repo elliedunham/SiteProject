@@ -17,6 +17,12 @@ div.day-box.PREP
 {
     border: solid;
 }
-
-
+div.day-box.COMPLETED
+{
+    border: solid;
+}
+div.day-box.CURRENT
+{
+    border: solid;
+}
 
