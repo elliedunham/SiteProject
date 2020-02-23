@@ -30,6 +30,10 @@ div.day-box.COMPLETED
     border: solid;
     border-bottom: none;
 }
+div.day-box COMPLETED div.day
+{
+    border-bottom: solid;
+}
 div.day-box.CURRENT
 {
     border: solid;
@@ -51,12 +55,11 @@ form.account_form
         background-color: burlywood;
     font-style: oblique;
 }
-label
+form.account_form label
 { float: left;
     clear: both;
 }
-
-input
+form.account_form input
 { float: left;
   clear: both;
 }
