@@ -52,14 +52,17 @@ form.account_form
     font-style: oblique;
 }
 label
-{
+{ float: left;
     clear: both;
 }
 
 input
-{
+{ float: left;
   clear: both;
-  
 }
-    
+form.account_form img.person_image
+ {
+   float: left;
+  }
+ 
 
