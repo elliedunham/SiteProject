@@ -42,7 +42,7 @@ div.day-box.CURRENT
 table
 {
     width: 600px;
-    background-color: #f5e6e6;
+   border: solid;
     border-spacing: 10px 10px;
 }
 div.title
