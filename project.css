@@ -4,23 +4,23 @@ body
 }
 div.person_info span.username
 {
-  background-color: #d4d2a1;
+  background-color: aliceblue ;
 
 }
 div.header div.person_info span.username
 {
-  background-color: #d4d2a1;
+  background-color: aliceblue;
 border: solid;
 }
 h1
 { border: solid;
-   background-color: #d4d2a1;
+   background-color: aliceblue;
    width: 160px;
 }
 div.header div.nav
 {border: solid;
 
-  background-color: #d4d2a1;
+  background-color: aliceblue;
   width: 387px;
 }
 div.person_info
@@ -40,27 +40,27 @@ div.day-box.PREP
 {
     border: solid;
     border-bottom: none;
-    background-color: #d4d2a1;
+    background-color: aliceblue;
 }
 div.day-box.COMPLETED
 {
     border: solid;
     border-bottom: none;
-    background-color: #d4d2a1;
+    background-color: aliceblue;
 }
 div.day-box COMPLETED div.day
 {
     border-bottom: solid;
-    background-color: #d4d2a1;
+    background-color: aliceblue;
 }
 div.day-box.CURRENT
 {
     border: solid;
     border-bottom: none;
-    background-color: #d4d2a1;
+    background-color: aliceblue;
 }
 table
-{ background-color:#d4d2a1;
+{ background-color: aliceblue;
     width: 600px;
    border: solid;
     border-spacing: 10px 10px;
@@ -70,7 +70,7 @@ div.title
 {
     font-size: x-large;
     text-transform: uppercase;
-    background-color: #d4d2a1;
+    background-color: aliceblue;
     width: 300px;
 }
 form.account_form
@@ -81,7 +81,7 @@ form.account_form
 form.account_form label
 { float: left;
     clear: both;
-    background-color: #d4d2a1;
+    background-color: aliceblue;
 }
 form.account_form input
 { float: left;
@@ -94,11 +94,11 @@ form.account_form img.person_image
  
  div.grade
  { border: solid;
-   background-color: #d4d2a1;
+   background-color: aliceblue;
    width: 35px;
  }
  h3
  { border: solid;
-   background-color: #d4d2a1;
+   background-color: aliceblue;
    width: 41px;
  }
