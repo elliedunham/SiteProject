@@ -4,7 +4,7 @@ body
 }
 div.header
 {
-    background-color: #f5e6e6;
+    background-image: 
 }
 div.person_info
 {
@@ -30,7 +30,7 @@ div.day-box.COMPLETED
     border: solid;
     border-bottom: none;
 }
-div.day-box COMPLETED div.day
+div.day-box.COMPLETED div.day
 {
     border-bottom: solid;
 }
