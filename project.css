@@ -85,4 +85,13 @@ form.account_form img.person_image
    float: left;
   }
  
-
+ div.grade
+ {
+   background-color: #d4d2a1;
+   width: 35px;
+ }
+ h3
+ {
+   background-color: #d4d2a1;
+   width: 41px;
+ }
