@@ -1,17 +1,26 @@
 body
 {
-    background-color: #d4d2a1;
+    background-image: url("tree.jpg");
 }
-div.header
+div.person_info span.username
 {
-    background-image: 
+  background-color: #d4d2a1;
+}
+h1
+{
+   background-color: #d4d2a1;
+   width: 160px;
+}
+div.header div.nav
+{
+  background-color: #d4d2a1;
+  width: 387px;
 }
 div.person_info
 {
   width: 200px;
   height: 175px;
   font-size: larger;
- 
 }
 img.person_image
 {
@@ -24,40 +33,48 @@ div.day-box.PREP
 {
     border: solid;
     border-bottom: none;
+    background-color: #d4d2a1;
 }
 div.day-box.COMPLETED
 {
     border: solid;
     border-bottom: none;
+    background-color: #d4d2a1;
 }
-div.day-box.COMPLETED div.day
+div.day-box COMPLETED div.day
 {
     border-bottom: solid;
+    background-color: #d4d2a1;
 }
 div.day-box.CURRENT
 {
     border: solid;
     border-bottom: none;
+    background-color: #d4d2a1;
 }
 table
-{
+{ background-color:#d4d2a1;
     width: 600px;
    border: solid;
     border-spacing: 10px 10px;
+
 }
 div.title
 {
     font-size: x-large;
     text-transform: uppercase;
+    background-color: #d4d2a1;
+    width: 300px;
 }
 form.account_form
 {
-        background-color: burlywood;
+       
     font-style: oblique;
 }
 form.account_form label
 { float: left;
     clear: both;
+    background-color: #d4d2a1;
 }
 form.account_form input
 { float: left;
