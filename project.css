@@ -111,3 +111,16 @@ form.account_form img.person_image
    background-color: aliceblue;
    width: 41px;
  }
+
+div.day-box.PREP div.day
+{
+    float: right;
+}
+div.day-box.CURRENT div.day
+{
+    float:right;
+}
+div.day-box.COMPLETED div.day
+{
+    float: right;
+}
