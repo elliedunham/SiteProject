@@ -66,6 +66,10 @@ div.day-box.CURRENT
     border-bottom: none;
     background-color: aliceblue;
 }
+div.day-box:hover
+{
+color: cornflowerblue
+}
 table
 { background-color: aliceblue;
     width: 600px;
