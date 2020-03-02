@@ -134,3 +134,15 @@ background-color: aliceblue;
 width: fit-content;
 border: solid;
 }
+image.seat_pic:hover
+{
+  position:relative;
+    top: auto;
+    left:auto;
+    width: 150px;
+    height:auto;
+    display:block;
+    z-index:999;
+    float: none;
+
+}
