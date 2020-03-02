@@ -128,3 +128,9 @@ div.day-box.COMPLETED div.day
 {
     float: right;
 }
+div#tooltip
+{
+background-color: aliceblue;
+width: fit-content;
+border: solid;
+}
