@@ -144,5 +144,8 @@ image.seat_pic:hover
     display:block;
     z-index:999;
     float: none;
-
+}
+html
+{
+cursor: grabbing;
 }
